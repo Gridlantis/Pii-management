@@ -1,41 +1,47 @@
 Guide to Removing Your Personal Information from the Internet
-Safeguarding your personally identifiable information (PII) is essential for maintaining security and protecting against cyber threats. Many websites collect and display personal data without consent, but you can take steps to remove it. Below is a structured approach to identifying and eliminating your PII from online databases.
+Protecting your personally identifiable information (PII) is crucial for maintaining security and defending against cyber threats. Many websites collect and display personal data without your explicit consent, but you can take action to remove it. Follow this structured approach to identify and eliminate your PII from online databases.
 
 Removing Your Information from People Search Websites
 The following services allow users to opt out of having their personal data publicly displayed:
 
-People Looker – Opt-Out: https://www.peoplelooker.com/svc/optout/search/optouts
+People Looker – [Opt-Out](https://www.peoplelooker.com/svc/optout/search/optouts)
 
-Smart Background Check – Opt-Out: https://www.smartbackgroundchecks.com/optout
+Smart Background Check – [Opt-Out](https://www.smartbackgroundchecks.com/optout)
 
-Spokeo – Opt-Out: https://www.spokeo.com/optout
+Spokeo – [Opt-Out](https://www.spokeo.com/optout)
 
-That’s Them – Opt-Out: https://thatsthem.com/optout
+That’s Them – [Opt-Out](https://thatsthem.com/optout)
 
-True People Search – Opt-Out: https://www.truepeoplesearch.com/removal
+True People Search – [Opt-Out](https://www.truepeoplesearch.com/removal)
 
-Truthfinder – Privacy Center: https://www.truthfinder.com/privacy-center/
+TruthFinder – [Privacy Center](https://www.truthfinder.com/privacy-center/)
 
-Whitepages – Suppression Requests: https://www.whitepages.com/suppression-requests
-
+Whitepages – [Suppression Requests](https://www.whitepages.com/suppression-requests)
 🔹 Pro Tip: If your data appears on an unlisted website, search for the site’s name followed by "opt-out" to locate its removal process.
 
 Checking for Data Breaches
-Data leaks are a common risk, exposing emails, passwords, and sensitive details. The tools below allow you to check if your credentials have been compromised:
+Data breaches can expose your email, passwords, and other sensitive details. Use the tools below to check if your credentials have been compromised:
 
-Have I Been Pwned – [[Check here](https://haveibeenpwned.com/)
+Have I Been Pwned – [Check Here](https://haveibeenpwned.com/)
 
-DeHashed – [[Check Here](https://dehashed.com/)]
+DeHashed – [Check Here](https://dehashed.com/)
 
-Avast Hack Check – Check Here
-LeakCheck – Check Here
+Avast Hack Check – [Check Here](https://www.avast.com/hackcheck)
+
+LeakCheck – [Check Here](https://leakcheck.io/)
+
 Best Practices for IT Security Professionals
-To minimize exposure and enhance online security:
+To minimize exposure and strengthen online security, follow these essential practices:
 
-✅ Use Unique, Strong Passwords – A password manager can help securely store and generate complex credentials.
-✅ Enable Two-Factor Authentication (2FA) – Protect accounts by requiring a second verification step.
-✅ Regularly Monitor Your Digital Footprint – Set Google Alerts for your name and periodically check data broker sites.
-✅ Verify Website URLs – Before entering personal details, ensure URLs are legitimate and secured with HTTPS.
-✅ Consider a VPN – A virtual private network adds a layer of privacy when browsing online.
+✅ Use Strong, Unique Passwords – A password manager can generate and securely store complex credentials.
 
-By following these steps, IT professionals can demonstrate strong cybersecurity awareness, an essential skill in today's digital landscape.
+✅ Enable Two-Factor Authentication (2FA) – Protect your accounts with an additional verification step.
+
+✅ Monitor Your Digital Footprint – Set up Google Alerts for your name and periodically check data broker sites.
+
+✅ Verify Website URLs – Before entering personal details, ensure the website URL is legitimate and secured with HTTPS.
+
+✅ Use a VPN – A virtual private network (VPN) enhances privacy by encrypting your internet connection.
+
+By following these steps, IT professionals can demonstrate strong cybersecurity awareness—an essential skill in today’s digital landscape.
+
