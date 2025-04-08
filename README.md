@@ -17,7 +17,8 @@ True People Search – [Opt-Out](https://www.truepeoplesearch.com/removal)
 TruthFinder – [Privacy Center](https://www.truthfinder.com/privacy-center/)
 
 Whitepages – [Suppression Requests](https://www.whitepages.com/suppression-requests)
-🔹 Pro Tip: If your data appears on an unlisted website, search for the site’s name followed by "opt-out" to locate its removal process.
+
+🔹Tip: If your data appears on an unlisted website, search for the site’s name followed by "opt-out" to locate its removal process.
 
 Checking for Data Breaches
 Data breaches can expose your email, passwords, and other sensitive details. Use the tools below to check if your credentials have been compromised:
