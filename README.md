@@ -34,15 +34,15 @@ LeakCheck – [Check Here](https://leakcheck.io/)
 Best Practices for IT Security Professionals
 To minimize exposure and strengthen online security, follow these essential practices:
 
-✅ Use Strong, Unique Passwords – A password manager can generate and securely store complex credentials.
+ Use Strong, Unique Passwords – A password manager can generate and securely store complex credentials.
 
-✅ Enable Two-Factor Authentication (2FA) – Protect your accounts with an additional verification step.
+ Enable Two-Factor Authentication (2FA) – Protect your accounts with an additional verification step.
 
-✅ Monitor Your Digital Footprint – Set up Google Alerts for your name and periodically check data broker sites.
+ Monitor Your Digital Footprint – Set up Google Alerts for your name and periodically check data broker sites.
 
-✅ Verify Website URLs – Before entering personal details, ensure the website URL is legitimate and secured with HTTPS.
+ Verify Website URLs – Before entering personal details, ensure the website URL is legitimate and secured with HTTPS.
 
-✅ Use a VPN – A virtual private network (VPN) enhances privacy by encrypting your internet connection.
+ Use a VPN – A virtual private network (VPN) enhances privacy by encrypting your internet connection.
 
 By following these steps, IT professionals can demonstrate strong cybersecurity awareness—an essential skill in today’s digital landscape.
 
