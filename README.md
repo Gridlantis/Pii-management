@@ -87,3 +87,4 @@ To minimize exposure and strengthen online security, follow these essential prac
 
 By following these steps, IT professionals can demonstrate strong cybersecurity awareness—an essential skill in today’s digital landscape.
 
+By Kih Green 
